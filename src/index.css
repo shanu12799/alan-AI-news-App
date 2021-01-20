@@ -1,0 +1,21 @@
+#root, html, body {
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    /* background-color: whitesmoke; */
+    background-color: #130f40;
+    background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+/* background-repeat: no-repeat; */
+background-size: 100%;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
